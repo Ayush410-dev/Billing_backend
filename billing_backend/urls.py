@@ -7,4 +7,12 @@ urlpatterns = [
     path('api/', include('core.urls')),
     path('api/', include('inventory.urls')),
     path('api/', include('vendorbills.urls')),
+     path('api/', include('Quotations.urls')),
+     path('api/delivery-challans/', include('DeliveryChallan.urls')),
 ]
+     
+
+
+
+
+

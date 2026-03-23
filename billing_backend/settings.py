@@ -32,6 +32,8 @@ INSTALLED_APPS = [
     
     'inventory',
     'vendorbills',
+    'Quotations',  
+    'DeliveryChallan', 
 ]
      
      
