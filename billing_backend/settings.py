@@ -34,6 +34,9 @@ INSTALLED_APPS = [
     'vendorbills',
     'Quotations',  
     'DeliveryChallan', 
+    'invoices',
+    'convert_to_invoice',
+    'pos',
 ]
      
      
